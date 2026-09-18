@@ -337,7 +337,7 @@ O objetivo foi desenvolver a lógica utilizando principalmente os conceitos já 
 Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/jogo-palavra-secreta-python.git
+git clone https://github.com/gabrielbytes1/jogo-palavra-secreta-python.git
 ```
 
 Entre na pasta:
