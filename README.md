@@ -330,6 +330,7 @@ O objetivo foi desenvolver a lógica utilizando principalmente os conceitos já 
 ### Requisitos
 
 - [Python 3 instalado](https://www.python.org/downloads/)
+- [Git](https://git-scm.com/install/windows)
 
 ### Executando pelo terminal
 
