@@ -410,7 +410,7 @@ Essas funcionalidades não fazem parte da versão atual porque o objetivo desta 
 
 ## 👤 Autor
 
-[**Gabriel Castro Azevedo**]([www.linkedin.com/in/gabrielcastro-dev](https://github.com/gabrielbytes1))
+[**Gabriel Castro Azevedo**](https://github.com/gabrielbytes1)
 
 Estudante de Sistemas de Informação e desenvolvedor em formação, utilizando projetos práticos para consolidar conhecimentos de programação.
 
